@@ -1,0 +1,36 @@
+_repo: Dr-Vermont-s-fantasy-and-other-stories_69361
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lynch, Hannah
+    birthdate: 1859
+    deathdate: 1904
+    gutenberg_agent_id: '43709'
+    url: http://www.gutenberg.org/2009/agents/43709
+    wikipedia: https://en.wikipedia.org/wiki/Hannah_Lynch
+description: ''
+gutenberg_issued: '2022-11-15'
+identifiers:
+  gutenberg: '69361'
+  lccn: 03028181
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=nyp.33433074879036&view=1up&seq=311
+pgterms:marc905: 20210203022223lynch
+pgterms:marc906: '1896'
+pgterms:marc907: GB
+production_note: Emmanuel Ackerman, Benoit Verduyn and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: 'United Kingdom: J. M. Dent and Company,1896.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English fiction -- Irish authors'
+- !lcsh 'Short stories, English -- Irish authors'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: Dr. Vermont's fantasy -- Brases -- A page of philosophy -- Armand's
+  mistake -- Mr. Malcolm Fitzroy -- The little marquis.
+title: Dr. Vermont's fantasy, and other stories
+url: http://www.gutenberg.org/ebooks/69361
